@@ -1,41 +1,19 @@
 {
   "name": "3dmap",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "start": "browser-sync start -server --files 'css/*.css, *.html, js/*.js'"
   },
-  "dependencies": {
-    "core-js": "^3.4.3",
-    "vue": "^2.6.10"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qweeex/3dmap.git"
   },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.1.0",
-    "@vue/cli-plugin-eslint": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
-    "babel-eslint": "^10.0.3",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+  "author": "Arkady Pugachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qweeex/3dmap/issues"
   },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "rules": {},
-    "parserOptions": {
-      "parser": "babel-eslint"
-    }
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions"
-  ]
+  "homepage": "https://github.com/qweeex/3dmap#readme"
 }
