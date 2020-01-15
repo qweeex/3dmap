@@ -35,21 +35,6 @@ $(document).ready(() => {
         $('.level-3').css('top', -900);
         $('.level-0').addClass('layers-active');
     });
-    
-    $('.map-control__all').on('click', () => {
-        $('.level-0, .level-1, .level-2, .level-3').removeClass('layers-out');
-        $('.level-0, .level-1, .level-2, .level-3').removeClass('layers-active');
-        $('.level-1').css('top', config.layers.level_one);
-        $('.level-2').css('top', config.layers.level_two);
-        $('.level-3').css('top', config.layers.level_three);
-        $('.level-0').css('top', config.layers.level_zero);
-    });
-
-    $('a.shop').on('click', (e) => {
-       e.preventDefault();
-       let level = parseInt(e.target.dataset.level);
-       ActiveLevel(level);
-    });
 
     $('.st1, .cls-2').on('click', () => {
        $('.map-popup').show();
@@ -96,4 +81,31 @@ $(document).ready(() => {
     }
 
 
+    let map = new Vue({
+        el: '#list',
+        data: {
+            shop: {}
+        },
+        mounted(){
+            this.getShop();
+        },
+        methods: {
+            getShop: function () {
+                $.getJSON('/shop.json', function(data){
+                   map.shop = data.shop;
+                });
+            },
+            GetLevel: function (level) {
+                ActiveLevel(level);
+            },
+            ViewLayers: function () {
+                $('.level-0, .level-1, .level-2, .level-3').removeClass('layers-out');
+                $('.level-0, .level-1, .level-2, .level-3').removeClass('layers-active');
+                $('.level-1').css('top', config.layers.level_one);
+                $('.level-2').css('top', config.layers.level_two);
+                $('.level-3').css('top', config.layers.level_three);
+                $('.level-0').css('top', config.layers.level_zero);
+            }
+        }
+    })
 });

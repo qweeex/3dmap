@@ -1,184 +1,214 @@
 {
-  "category": {
-    "title": "Одежда",
-    "shops": {
-      "item": {
-        "id": 1,
-        "text-level": "3 этаж",
-        "level": 3,
-        "title": "Modis",
-        "img": "img/modis-logo.png",
-        "phone": "8 (8452) 47–28–97"
+  "shop": [
+    {
+      "title": "Одежда",
+      "shops": {
+        "item": [
+          {
+            "id": 1,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Modis",
+            "img": "img/modis-logo.png",
+            "phone": "8 (8452) 47–28–97"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Обувь",
+      "shops": {
+        "item": [
+          {
+            "id": 2,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Детский мир",
+            "img": "img/detmir-logo.png",
+            "phone": "8 (8452) 72–48–22"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Аксессуары",
+      "shops": {
+        "item": [
+          {
+            "id": 3,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "CASIO",
+            "img": "",
+            "phone": "8 (8452) 78–91–12"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Красота и здоровье",
+      "shops": {
+        "item": [
+          {
+            "id": 4,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "ИЛЬ ДЕ БОТЭ",
+            "img": "img/ile-de-beaute-logo.jpg",
+            "phone": "8 (8452) 72–44–55"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Товары для дома",
+      "shops": {
+        "item": [
+          {
+            "id": 5,
+            "textLevel": "0 этаж",
+            "level": 0,
+            "title": "Много Мебели",
+            "img": "img/mnogo-mebeli-logo.jpg",
+            "phone": "8 (8452) 46-08-08"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Техника и электроника",
+      "shops": {
+        "item": [
+          {
+            "id": 6,
+            "textLevel": "0 этаж",
+            "level": 0,
+            "title": "Эльдорадо",
+            "img": "img/eldorado-logo.jpg",
+            "phone": "8 (8452) 72–48–41"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Детские товары",
+      "shops": {
+        "item": [
+          {
+            "id": 7,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "ACOOLA",
+            "img": "img/acoola-logo.jpg",
+            "phone": "8 (8452) 66-95-56"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Сувениры и подарки",
+      "shops": {
+        "item": [
+          {
+            "id": 8,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "585☆Золотой",
+            "img": "img/585gold-logo.jpg",
+            "phone": "+7 (800) 555–55–85"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Товары для творчества",
+      "shops": {
+        "item": [
+          {
+            "id": 9,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Леонардо",
+            "img": "img/leonardo-logo.jpg",
+            "phone": "8 (8452) 42–64–12"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Товары для животных",
+      "shops": {
+        "item": [
+          {
+            "id": 10,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Ле'Муррр",
+            "img": "img/lemurrr-logo.png",
+            "phone": ""
+          }
+        ]
+      }
+    },
+    {
+      "title": "Ювелирные изделия",
+      "shops": {
+        "item": [
+          {
+            "id": 8,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "585☆Золотой",
+            "img": "img/585gold-logo.jpg",
+            "phone": "+7 (800) 555–55–85"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Услуги",
+      "shops": {
+        "item": [
+          {
+            "id": 11,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Академия чистоты",
+            "img": "img/akademia-chistoty-logo.jpg",
+            "phone": "8 (965) 883–16–44"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Продукты",
+      "shops": {
+        "item": [
+          {
+            "id": 12,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "О’КЕЙ",
+            "img": "img/ok-logo.jpg",
+            "phone": "8 (8452) 66–93–56"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Кафе и рестораны",
+      "shops": {
+        "item": [
+          {
+            "id": 13,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Помидор",
+            "img": "img/pomidor-logo.jpg",
+            "phone": "8 (8452) 62–08–08"
+          }
+        ]
       }
     }
-  },
-  "category": {
-    "title": "Обувь",
-    "shops": {
-      "item": {
-        "id": 2,
-        "text-level": "2 этаж",
-        "level": 2,
-        "title": "Детский мир",
-        "img": "img/detmir-logo.png",
-        "phone": "8 (8452) 72–48–22"
-      }
-    }
-  },
-  "category": {
-    "title": "Аксессуары",
-    "shops": {
-      "item": {
-        "id": 3,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "CASIO",
-        "img": "",
-        "phone": "8 (8452) 78–91–12"
-      }
-    }
-  },
-  "category": {
-    "title": "Красота и здоровье",
-    "shops": {
-      "item": {
-        "id": 4,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "ИЛЬ ДЕ БОТЭ",
-        "img": "img/ile-de-beaute-logo.jpg",
-        "phone": "8 (8452) 72–44–55"
-      }
-    }
-  },
-  "category": {
-    "title": "Товары для дома",
-    "shops": {
-      "item": {
-        "id": 5,
-        "text-level": "0 этаж",
-        "level": 0,
-        "title": "Много Мебели",
-        "img": "img/mnogo-mebeli-logo.jpg",
-        "phone": "8 (8452) 46-08-08"
-      }
-    }
-  },
-  "category": {
-    "title": "Техника и электроника",
-    "shops": {
-      "item": {
-        "id": 6,
-        "text-level": "0 этаж",
-        "level": 0,
-        "title": "Эльдорадо",
-        "img": "img/eldorado-logo.jpg",
-        "phone": "8 (8452) 72–48–41"
-      }
-    }
-  },
-  "category": {
-    "title": "Детские товары",
-    "shops": {
-      "item": {
-        "id": 7,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "ACOOLA",
-        "img": "img/acoola-logo.jpg",
-        "phone": "8 (8452) 66-95-56"
-      }
-    }
-  },
-  "category": {
-    "title": "Сувениры и подарки",
-    "shops": {
-      "item": {
-        "id": 8,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "585☆Золотой",
-        "img": "img/585gold-logo.jpg",
-        "phone": "+7 (800) 555–55–85"
-      }
-    }
-  },
-  "category": {
-    "title": "Товары для творчества",
-    "shops": {
-      "item": {
-        "id": 9,
-        "text-level": "3 этаж",
-        "level": 3,
-        "title": "Леонардо",
-        "img": "img/leonardo-logo.jpg",
-        "phone": "8 (8452) 42–64–12"
-      }
-    }
-  },
-  "category": {
-    "title": "Товары для животных",
-    "shops": {
-      "item": {
-        "id": 10,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "Ле'Муррр",
-        "img": "img/lemurrr-logo.png",
-        "phone": ""
-      }
-    }
-  },
-  "category": {
-    "title": "Ювелирные изделия",
-    "shops": {
-      "item": {
-        "id": 8,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "585☆Золотой",
-        "img": "img/585gold-logo.jpg",
-        "phone": "+7 (800) 555–55–85"
-      }
-    }
-  },
-  "category": {
-    "title": "Услуги",
-    "shops": {
-      "item": {
-        "id": 11,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "Академия чистоты",
-        "img": "img/akademia-chistoty-logo.jpg",
-        "phone": "8 (965) 883–16–44"
-      }
-    }
-  },
-  "category": {
-    "title": "Продукты",
-    "shops": {
-      "item": {
-        "id": 12,
-        "text-level": "1 этаж",
-        "level": 1,
-        "title": "О’КЕЙ",
-        "img": "img/ok-logo.jpg",
-        "phone": "8 (8452) 66–93–56"
-      }
-    }
-  },
-  "category": {
-    "title": "Кафе и рестораны",
-    "shops": {
-      "item": {
-        "id": 13,
-        "text-level": "3 этаж",
-        "level": 3,
-        "title": "Помидор",
-        "img": "img/pomidor-logo.jpg",
-        "phone": "8 (8452) 62–08–08"
-      }
-    }
-  }
+  ]
 }
