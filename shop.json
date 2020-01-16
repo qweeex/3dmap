@@ -6,11 +6,171 @@
         "item": [
           {
             "id": 1,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Детский мир",
+            "img": "/image/detmir-logo.jpg",
+            "phone": "8 (8452) 72–48–22"
+          },
+          {
+            "id": 2,
             "textLevel": "3 этаж",
             "level": 3,
             "title": "Modis",
-            "img": "img/modis-logo.png",
+            "img": "/image/modis-logo.png",
             "phone": "8 (8452) 47–28–97"
+          },
+          {
+            "id": 3,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Oodji",
+            "img": "/image/oodji-logo.jpg",
+            "phone": "8 (8452) 27–22–76"
+          },
+          {
+            "id": 4,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "ACOOLA",
+            "img": "/image/acoola-logo.jpg",
+            "phone": "8 (8452) 66-95-56"
+          },
+          {
+            "id": 5,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Albertina",
+            "img": "/image/albertina-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 6,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Bizzarro",
+            "img": "/image/bizzarro-logo.png",
+            "phone": "8 (8452) 47-87-87"
+          },
+          {
+            "id": 7,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Буду Мамой",
+            "img": "/image/budu-mamoy-logo.jpg",
+            "phone": "8 (8452) 47–28–56"
+          },
+          {
+            "id": 8,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Camminare",
+            "img": "/image/camminare-logo.jpg",
+            "phone": "8 (951) 888–10–94"
+          },
+          {
+            "id": 9,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Daniela",
+            "img": "/image/daniela.jpg",
+            "phone": "8 (8452) 68–04–65"
+          },
+          {
+            "id": 10,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "DENIM джинс",
+            "img": "/image/denim.jpg",
+            "phone": ""
+          },
+          {
+            "id": 11,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "ELIS",
+            "img": "/image/elis-logo.jpg",
+            "phone": "+7 (8452) 47–28–73"
+          },
+          {
+            "id": 12,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Shatte",
+            "img": "/image/shatte-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 13,
+            "textLevel": "0 этаж",
+            "level": 0,
+            "title": "Familia",
+            "img": "/image/familia-logo.jpg",
+            "phone": "8–495–663–61–34"
+          },
+          {
+            "id": 14,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "FUNDAY",
+            "img": "/image/funday-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 15,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Gerry Weber",
+            "img": "/image/gerry-weber-logo.jpg",
+            "phone": "8 (8452) 74-42-69"
+          },
+          {
+            "id": 16,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "GUESS",
+            "img": "/image/guess-logo.png",
+            "phone": ""
+          },
+          {
+            "id": 17,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "HASS",
+            "img": "/image/hass-logo.jpg",
+            "phone": "8 (8452) 65–97–75"
+          },
+          {
+            "id": 18,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "KIDS Republic",
+            "img": "/image/kids-republic-logo.jpg",
+            "phone": "8 (8452) 68-00-69"
+          },
+          {
+            "id": 19,
+            "textLevel": "0 этаж",
+            "level": 0,
+            "title": "ЦЕНАМРАД",
+            "img": "/image/cenamrad-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 20,
+            "textLevel": "0 этаж",
+            "level": 0,
+            "title": "T&E",
+            "img": "/image/t-e.jpg",
+            "phone": ""
+          },
+          {
+            "id": 21,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Тамбовчанки",
+            "img": "/image/tambovchanka-logo.jpg",
+            "phone": ""
           }
         ]
       }
@@ -20,12 +180,20 @@
       "shops": {
         "item": [
           {
-            "id": 2,
+            "id": 22,
             "textLevel": "2 этаж",
             "level": 2,
-            "title": "Детский мир",
-            "img": "img/detmir-logo.png",
-            "phone": "8 (8452) 72–48–22"
+            "title": "Котофей",
+            "img": "/image/kotofey-logo.jpg",
+            "phone": "8 (917) 208-42-47"
+          },
+          {
+            "id": 23,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Лапоток",
+            "img": "/image/lapotok-logo.jpg",
+            "phone": ""
           }
         ]
       }
@@ -35,12 +203,36 @@
       "shops": {
         "item": [
           {
-            "id": 3,
+            "id": 24,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Babywatch64",
+            "img": "/image/babywatch-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 25,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "ВВ1 Accessories",
+            "img": "/image/bb1-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 26,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "CASIO",
-            "img": "",
+            "img": "/image/casio.jpg",
             "phone": "8 (8452) 78–91–12"
+          },
+          {
+            "id": 27,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Swatch",
+            "img": "/image/swatch-logo.jpg",
+            "phone": "8 (8452) 72–48–52"
           }
         ]
       }
@@ -50,12 +242,84 @@
       "shops": {
         "item": [
           {
-            "id": 4,
+            "id": 28,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "ИЛЬ ДЕ БОТЭ",
-            "img": "img/ile-de-beaute-logo.jpg",
+            "img": "/image/ile-de-beaute-logo.jpg",
             "phone": "8 (8452) 72–44–55"
+          },
+          {
+            "id": 29,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "ИЛЬ ДЕ БОТЭ",
+            "img": "/image/akademia-krasoty-logo.jpg",
+            "phone": "8 (937) 144–57–44"
+          },
+          {
+            "id": 30,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": " «DrugoY» V.I.P. Style",
+            "img": "/image/drugoy-logo.jpg",
+            "phone": "8 (8452) 74-40-84"
+          },
+          {
+            "id": 31,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Фантик",
+            "img": "/image/fantik-logo.jpg",
+            "phone": "250-197"
+          },
+          {
+            "id": 32,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Health & Beauty",
+            "img": "/image/health-beauty-logo.jpg",
+            "phone": "8 (8452) 93–09–93"
+          },
+          {
+            "id": 33,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Мегуми",
+            "img": "/image/megumi-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 34,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Офтальмике",
+            "img": "/image/oftalmika-logo.jpg",
+            "phone": "8 (8452) 44–82–40"
+          },
+          {
+            "id": 35,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Ригла",
+            "img": "/image/rigla.jpg",
+            "phone": "8 (8452) 49–93–53"
+          },
+          {
+            "id": 36,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Симфония красоты",
+            "img": "/image/symphony-krasoty-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 37,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Yves Rocher",
+            "img": "/image/yves-rocher-logo.jpg",
+            "phone": "8 (8452) 74–68–15"
           }
         ]
       }
@@ -65,11 +329,19 @@
       "shops": {
         "item": [
           {
-            "id": 5,
+            "id": 38,
             "textLevel": "0 этаж",
             "level": 0,
             "title": "Много Мебели",
-            "img": "img/mnogo-mebeli-logo.jpg",
+            "img": "/image/mnogo-mebeli-logo.jpg",
+            "phone": "8 (8452) 46-08-08"
+          },
+          {
+            "id": 42,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "РАЙТОН",
+            "img": "/image/raiton-logo.jpg",
             "phone": "8 (8452) 46-08-08"
           }
         ]
@@ -80,12 +352,52 @@
       "shops": {
         "item": [
           {
-            "id": 6,
+            "id": 39,
             "textLevel": "0 этаж",
             "level": 0,
             "title": "Эльдорадо",
-            "img": "img/eldorado-logo.jpg",
+            "img": "/image/eldorado-logo.jpg",
             "phone": "8 (8452) 72–48–41"
+          },
+          {
+            "id": 40,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "DNS",
+            "img": "/image/dns-logo.png",
+            "phone": "8(8452) 42–62–34"
+          },
+          {
+            "id": 41,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Pedant.ru",
+            "img": "/image/pedant-logo.jpg",
+            "phone": "+7 (8452) 39–50–20"
+          },
+          {
+            "id": 41,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Pedant.ru",
+            "img": "/image/pedant-logo.jpg",
+            "phone": "+7 (8452) 39–50–20"
+          },
+          {
+            "id": 43,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Redmond",
+            "img": "/image/redmond-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 44,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Связной",
+            "img": "/image/svyaznoy-logo.jpg",
+            "phone": "8 (800) 700–50–00"
           }
         ]
       }
@@ -95,12 +407,28 @@
       "shops": {
         "item": [
           {
-            "id": 7,
+            "id": 45,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "ACOOLA",
-            "img": "img/acoola-logo.jpg",
+            "img": "/image/acoola-logo.jpg",
             "phone": "8 (8452) 66-95-56"
+          },
+          {
+            "id": 46,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "TOY.RU",
+            "img": "/image/toy-ru-logo.jpg",
+            "phone": "8 (800) 500–23–70"
+          },
+          {
+            "id": 47,
+            "textLevel": "2 этаж",
+            "level": 2,
+            "title": "Весёлая затея",
+            "img": "/image/zateya-logo.jpg",
+            "phone": "8 (8452) 75–60–07"
           }
         ]
       }
@@ -110,12 +438,44 @@
       "shops": {
         "item": [
           {
-            "id": 8,
+            "id": 48,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "585☆Золотой",
-            "img": "img/585gold-logo.jpg",
+            "img": "/image/585gold-logo.jpg",
             "phone": "+7 (800) 555–55–85"
+          },
+          {
+            "id": 49,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Читай–город",
+            "img": "/image/chitay-gorod-logo.jpg",
+            "phone": "8 (800) 444-8-444"
+          },
+          {
+            "id": 50,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Jenavi",
+            "img": "/image/jenavi-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 51,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Floromat",
+            "img": "/image/floromat-logo.jpg",
+            "phone": ""
+          },
+          {
+            "id": 52,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "TOBACCONIST",
+            "img": "/image/tobacconist-logo.jpg",
+            "phone": "8 (8452) 74–42–88"
           }
         ]
       }
@@ -125,11 +485,11 @@
       "shops": {
         "item": [
           {
-            "id": 9,
+            "id": 53,
             "textLevel": "3 этаж",
             "level": 3,
             "title": "Леонардо",
-            "img": "img/leonardo-logo.jpg",
+            "img": "/image/leonardo-logo.jpg",
             "phone": "8 (8452) 42–64–12"
           }
         ]
@@ -140,11 +500,11 @@
       "shops": {
         "item": [
           {
-            "id": 10,
+            "id": 54,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "Ле'Муррр",
-            "img": "img/lemurrr-logo.png",
+            "img": "/image/lemurrr-logo.png",
             "phone": ""
           }
         ]
@@ -155,12 +515,20 @@
       "shops": {
         "item": [
           {
-            "id": 8,
+            "id": 48,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "585☆Золотой",
-            "img": "img/585gold-logo.jpg",
+            "img": "/image/585gold-logo.jpg",
             "phone": "+7 (800) 555–55–85"
+          },
+          {
+            "id": 50,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Jenavi",
+            "img": "/image/jenavi-logo.jpg",
+            "phone": ""
           }
         ]
       }
@@ -170,12 +538,28 @@
       "shops": {
         "item": [
           {
-            "id": 11,
+            "id": 55,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "Академия чистоты",
-            "img": "img/akademia-chistoty-logo.jpg",
+            "img": "/image/akademia-chistoty-logo.jpg",
             "phone": "8 (965) 883–16–44"
+          },
+          {
+            "id": 56,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "PickPoint",
+            "img": "/image/pickpoint-logo.jpg",
+            "phone": "8 (800) 700–79–09"
+          },
+          {
+            "id": 57,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Росгосстрах",
+            "img": "/image/rosgostrah.png",
+            "phone": "8(8452) 24–98–08"
           }
         ]
       }
@@ -185,11 +569,11 @@
       "shops": {
         "item": [
           {
-            "id": 12,
+            "id": 58,
             "textLevel": "1 этаж",
             "level": 1,
             "title": "О’КЕЙ",
-            "img": "img/ok-logo.jpg",
+            "img": "/image/ok-logo.jpg",
             "phone": "8 (8452) 66–93–56"
           }
         ]
@@ -200,12 +584,28 @@
       "shops": {
         "item": [
           {
-            "id": 13,
+            "id": 59,
             "textLevel": "3 этаж",
             "level": 3,
             "title": "Помидор",
-            "img": "img/pomidor-logo.jpg",
+            "img": "/image/pomidor-logo.jpg",
             "phone": "8 (8452) 62–08–08"
+          },
+          {
+            "id": 60,
+            "textLevel": "1 этаж",
+            "level": 1,
+            "title": "Coffee Island",
+            "img": "/image/coffee-island.jpg",
+            "phone": ""
+          },
+          {
+            "id": 61,
+            "textLevel": "3 этаж",
+            "level": 3,
+            "title": "Gusto Pizza",
+            "img": "/image/gusto-logo.jpg",
+            "phone": "8–987–810–15–32"
           }
         ]
       }

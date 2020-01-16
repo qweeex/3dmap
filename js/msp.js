@@ -8,7 +8,7 @@ $(document).ready(() => {
             level_three: -50
         }
     };
-
+    var store;
 
 
     $('.level-3').on('click', (e) => {
@@ -80,8 +80,11 @@ $(document).ready(() => {
         }
     }
 
+    function ShowCard(img){
 
-    let map = new Vue({
+    }
+
+   let map = new Vue({
         el: '#list',
         data: {
             shop: {}
@@ -95,8 +98,14 @@ $(document).ready(() => {
                    map.shop = data.shop;
                 });
             },
-            GetLevel: function (level) {
+            GetLevel: function (level, image, phone, name, cat, lev) {
                 ActiveLevel(level);
+                $('.card-image a img').attr('src', image);
+                $('.card-title p').text(name);
+                $('.card-category p').text(cat);
+                $('.card-floor p').text(lev);
+                $('.card-phone a').text(phone);
+                $('.map-popup').show();
             },
             ViewLayers: function () {
                 $('.level-0, .level-1, .level-2, .level-3').removeClass('layers-out');
